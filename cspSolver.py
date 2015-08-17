@@ -5,7 +5,7 @@
 # Authors: Erik Talvitie, Franklin and Marshall College
 #          Jake Kaplan, Steele Schauer, Amy Reyes, Franklin and Marshall College
 #
-# Last edit: 2/10/12
+# Last edit: 8/17/15
 #
 # Defines the CSP class and two CSP Solvers.
 #

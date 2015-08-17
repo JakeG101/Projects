@@ -3,9 +3,9 @@
 # Part of Artificial Intelligence CSP Project
 #
 # Authors: Erik Talvitie, Franklin and Marshall College
-#          YOUR NAME HERE, Franklin and Marshall College
+#          Jake Kaplan, Franklin and Marshall College
 #
-# Last edit: 2/5/15
+# Last edit: 8/17/15
 #
 # When run from the command line takes a sudoku puzzle
 # and solves it using local search. Performs the search

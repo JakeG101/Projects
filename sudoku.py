@@ -3,9 +3,9 @@
 # Part of Artificial Intelligence CSP Project
 #
 # Authors: Erik Talvitie, Franklin and Marshall College
-#          Steele Schauer, Franklin and Marshall College
+#          Jake Kaplan, Steele Schauer, Amy Reyes, Franklin and Marshall College
 #
-# Last edit: 2/5/15
+# Last edit: 8/17/15
 #
 # Defines the Sudoku CSP.
 # When run from the command line, generates a Sudoku CSP,
